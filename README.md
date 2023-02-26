@@ -1,0 +1,1 @@
+Projeto dedicado à treinar as linguagens que estou aprendendo e montar um RPG de texto no Browser.

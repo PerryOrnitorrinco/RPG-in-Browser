@@ -1,0 +1,45 @@
+body {
+    
+    background-image: url(../imagens/Taberna.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 61vw;
+
+}
+
+#tabelaInicio {
+
+    color: #f5f5f5;
+    text-align: center;
+    font-size: 22px;
+    margin-top: 30px;
+    padding-top: 15px;
+
+}
+
+#tabelaPersonagem {
+
+    margin-top: 6%;
+
+}
+
+.tituloPersonagem {
+
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    background: #ffffff50;
+    backdrop-filter: blur( 3px );
+    border-radius: 10px;
+    border: 3px solid #ffffff2e;
+
+}
+
+.imagemPersonagem {
+
+    background: #ffffff25;
+    backdrop-filter: blur( 3px );
+    border-radius: 10px;
+    border: 3px solid #ffffff2e;
+
+}

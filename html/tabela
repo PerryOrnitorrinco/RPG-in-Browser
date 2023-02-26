@@ -1,0 +1,39 @@
+<table border="5px" align="center" id="tabelaGuerreiro">
+
+            <tr id="tituloPersonagem">
+
+                <td> Guerreiro </td>
+
+            </tr>
+
+            <tr>
+
+                <td> <img src="../imagens/Guerreiro.jpg" alt="" width="150px" height="250px"> </td>
+
+            </tr>
+        
+        </table>
+
+        <table border="5px" align="right" id="tabelaLadino"> 
+
+            <tr id="tituloPersonagem">
+
+                <td> Ladino </td>
+
+            </tr>
+
+            <tr>
+
+                <td> <img src="../imagens/Ladino.png" alt="" width="150px" height="250px"> </td>
+
+            </tr>
+        
+        </table> 
+
+
+
+
+
+
+        border: 6px solid lightsteelblue;
+        border-radius: 5px;
